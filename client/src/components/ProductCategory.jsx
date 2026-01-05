@@ -1,4 +1,4 @@
-function ProductCategory() {
+export function ProductCategory() {
     return (
          <section className="bg-gray-100 py-8">
         <div className="container mx-auto">
